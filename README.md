@@ -32,7 +32,7 @@ A Java-based implementation of the classic card game, Blackjack. This project al
     cd Blackjack
 
 2. **Import into an IDE**:
-- Open your Java IDE (Eclipse 4.24+ recommended).
+- Open your Java IDE.
 - Import the `Blackjack` project folder.
 
 3. **Run the game**:
