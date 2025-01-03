@@ -2,6 +2,8 @@
 
 A Java-based implementation of the classic card game, Blackjack. This project allows players to compete against a computer dealer, adhering to standard Blackjack rules, with an intuitive graphical user interface designed for an engaging experience.
 
+> **Note**: This project was created during my initial stages of learning Java and serves as an example of how I applied core concepts like OOP, GUI design, and game logic early in my development journey.
+
 ---
 
 ## Features
