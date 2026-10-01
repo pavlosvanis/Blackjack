@@ -28,11 +28,12 @@ A Java-based implementation of the classic card game, Blackjack. This project al
 ## Installation
 
 1. **Clone the repository**:
+   
     git clone https://github.com/pavlosvanis/Blackjack.git
    
     cd Blackjack
 
-3. **Import into an IDE**:
+2. **Import into an IDE**:
 - Open your Java IDE.
 - Import the `Blackjack` project folder.
 
